@@ -44,7 +44,7 @@ To resolve this system flaw, the script implements an enterprise Isolation Loop 
        ▼             ▼
   [ Try Block ]   [ Catch Block ]
   Grabs text      Intercepts Cast Exception
-  DisplayName     Drops Corrupted Node Silently
+  Drops Corrupted Node Silently
        │             │
        ▼             ▼
   [ Valid App ]   [ Keep Loop Alive ] ──► Next Application
@@ -64,7 +64,7 @@ PS C:\Windows\system32> C:\Users\ASUS\Documents\SystemAudit.ps1
 Success! The system inventory report has been generated on your Desktop
 ```
 
-![Script running smoothly inside the PowerShell ISE development panel](assets/powershell_ise_execution.png)
+![Script running smoothly inside the PowerShell ISE development panel](https://githubusercontent.com)
 *Figure: Script running smoothly inside the PowerShell ISE development panel, showing the green success confirmation trace below.*
 
 ### 2. Standardized Inventory Log Profile Output
@@ -104,7 +104,7 @@ Installed App : VMware Workstation Player
 ======================== [AUDIT COMPLETE] ========================
 ```
 
-![The clean, completed text report displaying full host specs](assets/system_inventory_output.png)
+![The clean, completed text report displaying full host specs](https://githubusercontent.com)
 *Figure: The clean, completed text report displaying full host specs, local partition limits, and the isolated application package arrays.*
 
 ---
