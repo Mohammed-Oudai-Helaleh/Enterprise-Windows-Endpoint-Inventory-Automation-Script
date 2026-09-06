@@ -64,7 +64,7 @@ PS C:\Windows\system32> C:\Users\ASUS\Documents\SystemAudit.ps1
 Success! The system inventory report has been generated on your Desktop
 ```
 
-[The clean, completed text report displaying full host specs](https://raw.githubusercontent.com/Mohammed-Oudai-Helaleh/Enterprise-Windows-Endpoint-Inventory-Automation-Script/4ee397187436df0d36b9dee82a60941f39377745/assets/system_inventory_output.png)
+![The clean, completed text report displaying full host specs](https://raw.githubusercontent.com/Mohammed-Oudai-Helaleh/Enterprise-Windows-Endpoint-Inventory-Automation-Script/4ee397187436df0d36b9dee82a60941f39377745/assets/powershell_ise_execution.png)
 *Figure: Script running smoothly inside the PowerShell ISE development panel, showing the green success confirmation trace below.*
 
 ### 2. Standardized Inventory Log Profile Output
@@ -104,7 +104,7 @@ Installed App : VMware Workstation Player
 ======================== [AUDIT COMPLETE] ========================
 ```
 
-![Script running smoothly inside the PowerShell ISE development panel](https://raw.githubusercontent.com/Mohammed-Oudai-Helaleh/Enterprise-Windows-Endpoint-Inventory-Automation-Script/4ee397187436df0d36b9dee82a60941f39377745/assets/powershell_ise_execution.png)
+![Script running smoothly inside the PowerShell ISE development panel](https://raw.githubusercontent.com/Mohammed-Oudai-Helaleh/Enterprise-Windows-Endpoint-Inventory-Automation-Script/4ee397187436df0d36b9dee82a60941f39377745/assets/system_inventory_output.png)
 *Figure: The clean, completed text report displaying full host specs, local partition limits, and the isolated application package arrays.*
 
 ---
